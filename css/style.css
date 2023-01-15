@@ -417,6 +417,7 @@ a {
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 10px;
+    box-sizing: border-box !important;
     padding-right: 0;
     background-color: #f9f9f9;
     outline: none;
