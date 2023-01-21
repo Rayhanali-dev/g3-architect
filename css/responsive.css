@@ -1,4 +1,230 @@
 /* ==================================
+    x-tra x-tra Large device start
+================================== */
+@media screen and (min-width: 1400px) and (max-width: 1440.98px) {
+    /* banner part start */
+    .banner-img {
+        padding: 0 10px;
+    }
+
+    .banner-img img {
+        width: 100%;
+        display: block;
+    }
+    /* banner part end */
+}
+
+/* ==================================
+    x-tra x-tra Large device end
+================================== */
+
+/* ==================================
+        X-tra Large device start
+================================== */
+@media screen and (min-width: 1200px) and (max-width: 1399.98px) {
+    /* banner part start */
+    .banner-img {
+        padding: 0 10px;
+    }
+
+    .banner-img img {
+        width: 100%;
+        display: block;
+    }
+
+    /* banner part end */
+
+    /* feature love part start */
+
+    .feature-love-wrapper {
+        gap: 50px;
+        padding: 0 20px;
+    }
+
+    .feature-enjoy-title {
+        padding-right: 0;
+    }
+
+    .feature-button {
+        margin-top: -176px;
+        left: 35px;
+    }
+
+    /* feature love part end */
+
+    /* some facts part start */
+
+    .some-facts-header {
+        padding: 0 20px;
+    }
+
+    .some-facts-desciption {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        color: #727272;
+        padding-right: 500px;
+
+    }
+
+    /* some facts part end */
+
+    /* our sponser part start */
+
+    .sponser-description {
+        padding: 0 275px;
+    }
+
+    .sponser-wrapper {
+        padding: 0 20px;
+    }
+
+    /* our sponser part end */
+
+    /* contact part start */
+
+    .contact-description {
+        padding: 0 275px;
+    }
+
+    .contact-wrapper {
+        padding: 0 20px;
+    }
+
+    /* contact part end */
+
+
+}
+
+/* ==================================
+        X-tra Large device end
+================================== */
+
+/* ==================================
+         Large device start
+================================== */
+@media screen and (min-width: 992px) and (max-width: 1199.98px) {
+    /* banner part start */
+    .banner-img {
+        padding: 0 10px;
+    }
+
+    .banner-img img {
+        width: 100%;
+        display: block;
+    }
+
+    /* banner part end */
+
+    /* feature love and enjoy part start */
+
+    .feature-enjoy-heading {
+        padding: 0 10px;
+        text-align: center;
+    }
+
+    .feature-love-wrapper {
+        grid-template-columns: repeat(1, 1fr);
+        gap: 45px;
+    }
+
+    .feature-enjoy-title {
+        font-size: 39px;
+        padding-right: 0; 
+        padding-left: 0;
+        border-left: none;
+    }
+
+    .feature-item-wrapper {
+        padding: 0 10px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+    .feature-left-item {
+        width: 48%;
+        text-align: center;
+    }
+
+    .feature-left-item-description {
+        padding-right: 0;
+    }
+
+    .feature-right-img {
+        width: 70%;
+        margin: auto;
+    }
+
+    .feature-right-img img {
+        width: 100%;
+    }
+
+    .feature-button {
+        padding: 15px 25px;
+        margin-top: 25px;
+        left: 0;
+    }
+
+    .feature-year {
+        font-size: 40px;
+        line-height: 30px;
+    }
+
+    .feature-experience {
+        font-size: 21px;
+        line-height: 32px;
+    }
+
+    /* feature love and enjoy part end */
+
+    /* some facts part start */
+
+    .some-facts-header {
+        padding: 0 20px;
+    }
+
+    .some-facts-desciption {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        color: #727272;
+        padding-right: 500px;
+
+    }
+
+    /* some facts part end */
+
+    /* our sponser part start */
+
+    .sponser-description {
+        padding: 0 275px;
+    }
+
+    .sponser-wrapper {
+        padding: 0 20px;
+    }
+
+    /* our sponser part end */
+
+    /* contact part start */
+
+    .contact-description {
+        padding: 0 275px;
+    }
+
+    .contact-wrapper {
+        padding: 0 20px;
+    }
+
+    /* contact part end */
+}
+
+/* ==================================
+         Large device end
+================================== */
+
+/* ==================================
          Medium device start
 ================================== */
 @media screen and (min-width: 768px) and (max-width: 991.98px) {
