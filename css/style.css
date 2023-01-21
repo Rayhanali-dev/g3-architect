@@ -64,6 +64,10 @@ a {
     color: #424242;
 }
 
+.mobile-bars {
+    display: none;
+}
+
 /* ============================
         navbar css end
 ============================ */
@@ -150,9 +154,24 @@ a {
     margin-bottom: 24px;
 }
 
+.feature-btn {
+    margin-bottom: 0;
+    color: #fff;
+    padding: 21px 25px;
+    background-color: #FF900E;
+    border-radius: 8px;
+    text-transform: capitalize;
+    font-size: 20px;
+    font-weight: 600;
+}
+
 .quick-list {
     color: #727272;
     font-weight: 500;
+}
+
+.mobile-btn {
+    display: none;
 }
 
 .of-our {
