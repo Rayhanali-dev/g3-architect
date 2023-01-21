@@ -591,6 +591,10 @@
 
     /* feature love and enjoy part start */
 
+    .feature-enjoy {
+        margin-top: 30px;
+    }
+
     .feature-enjoy-heading {
         padding: 0 10px;
         text-align: center;
